@@ -3,5 +3,6 @@ NQueens
 HamiltonianPath
 ColoringProblem
 FibonacciDP
+Knapsack.py
 TrappedRainWaterProblem
 LinkedList
