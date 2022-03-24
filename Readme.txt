@@ -1,2 +1,2 @@
-Hanoi
+TowersHanoi.py
 NQueens
