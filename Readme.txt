@@ -1,5 +1,6 @@
 TowersHanoi
 NQueens
 HamiltonianPath
+ColoringProblem.py
 TrappedRainWaterProblem
 LinkedList
