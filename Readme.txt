@@ -1,4 +1,5 @@
 TowersHanoi
 NQueens
+HamiltonianPath
 TrappedRainWaterProblem
 LinkedList
