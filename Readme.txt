@@ -17,3 +17,4 @@ Optimization_Algorithms_in_Python_Flight_schedule_problem
 Optimization_Algorithms_in_Python_Bedrooms_problem
 Optimization_Algorithms_in_Python_Transport_problem
 astar.py
+MasPy_TextReplace_solution.ipynb
