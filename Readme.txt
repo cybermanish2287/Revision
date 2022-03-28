@@ -19,3 +19,4 @@ Optimization_Algorithms_in_Python_Transport_problem
 astar.py
 MasPy_TextReplace_solution.ipynb
 MasPy_LawLargeNumbers_solution.ipynb
+MasPy_EntropyEnglish_solution.ipynb
