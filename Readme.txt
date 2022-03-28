@@ -18,3 +18,4 @@ Optimization_Algorithms_in_Python_Bedrooms_problem
 Optimization_Algorithms_in_Python_Transport_problem
 astar.py
 MasPy_TextReplace_solution.ipynb
+MasPy_LawLargeNumbers_solution.ipynb
