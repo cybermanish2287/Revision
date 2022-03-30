@@ -21,3 +21,4 @@ MasPy_TextReplace_solution.ipynb
 MasPy_LawLargeNumbers_solution.ipynb
 MasPy_EntropyEnglish_solution.ipynb
 MasPy_stateSpaceTrajectory_solution.ipynb
+MasPy_statistics_solution.ipynb
