@@ -23,3 +23,4 @@ MasPy_EntropyEnglish_solution.ipynb
 MasPy_stateSpaceTrajectory_solution.ipynb
 MasPy_statistics_solution.ipynb
 MasPy_clustering_solution.ipynb
+MasPy_indexYourCode_solution.ipynb
