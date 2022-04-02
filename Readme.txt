@@ -28,3 +28,4 @@ stats_visualizing_barplots.ipynb
 stats_visualizing_boxWhisker.ipynb
 stats_visualizing_histogram.ipynb
 stats_visualizing_pieCharts.ipynb
+stats_descriptives_distributions.ipynb
