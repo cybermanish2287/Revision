@@ -35,7 +35,7 @@ stats_normOutliers_zscore.ipynb
 stats_normOutliers_zMethod.ipynb
 stats_probtheory_computeProbs.ipynb
 stats_probtheory_prob_mass.ipynb
-
+stats_probtheory_sampleVariability.ipynb
 
 
 
