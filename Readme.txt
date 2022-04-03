@@ -30,4 +30,4 @@ stats_visualizing_histogram.ipynb
 stats_visualizing_pieCharts.ipynb
 stats_descriptives_distributions.ipynb
 stats_descriptives_centralTendency.ipynb
-stats_descriptives_dispersion.ipynb
+stats_descriptives_dispersion.ipynb (except poisson)
