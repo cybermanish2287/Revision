@@ -37,7 +37,7 @@ stats_probtheory_computeProbs.ipynb
 stats_probtheory_prob_mass.ipynb
 stats_probtheory_sampleVariability.ipynb
 stats_probtheory_conditional.ipynb
-
+stats_probtheory_LawLargeNumbers.ipynb
 
 
 
