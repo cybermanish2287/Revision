@@ -32,3 +32,4 @@ stats_descriptives_distributions.ipynb
 stats_descriptives_centralTendency.ipynb
 stats_descriptives_dispersion.ipynb (except poisson)
 stats_normOutliers_zscore.ipynb
+stats_normOutliers_zMethod.ipynb
