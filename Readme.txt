@@ -39,7 +39,7 @@ stats_probtheory_sampleVariability.ipynb
 stats_probtheory_conditional.ipynb
 stats_probtheory_LawLargeNumbers.ipynb
 stats_ttest_oneSampleT.ipynb
-
+stats_ttest_twoSampleT.ipynb
 
 
 
