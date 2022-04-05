@@ -47,7 +47,7 @@ stats_confint_bootstrap.ipynb
 stats_corr_corrcoef.ipynb
 stats_corr_generateCorrelation.ipynb
 stats_corr_corrMatrix.ipynb
-
+stats_corr_partialCorrs.ipynb
 
 
 
