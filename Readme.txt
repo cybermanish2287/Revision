@@ -42,7 +42,7 @@ stats_ttest_oneSampleT.ipynb
 stats_ttest_twoSampleT.ipynb
 stats_ttest_signedRank.ipynb
 stats_ttest_permutation.ipynb
-
+stats_confint_analytic.ipynb
 
 
 
