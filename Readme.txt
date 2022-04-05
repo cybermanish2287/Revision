@@ -45,7 +45,7 @@ stats_ttest_permutation.ipynb
 stats_confint_analytic.ipynb
 stats_confint_bootstrap.ipynb
 stats_corr_corrcoef.ipynb
-
+stats_corr_generateCorrelation.ipynb
 
 
 
