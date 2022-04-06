@@ -50,4 +50,4 @@ stats_corr_corrMatrix.ipynb
 stats_corr_partialCorrs.ipynb
 stats_corr_Spearman.ipynb
 stats_corr_Kendall.ipynb
-
+stats_corr_cosine.ipynb
