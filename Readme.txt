@@ -52,3 +52,14 @@ stats_corr_Spearman.ipynb
 stats_corr_Kendall.ipynb
 stats_corr_cosine.ipynb
 stats_anova_1wayANOVA.ipynb
+stats_anova_1way_rm_ANOVA.ipynb
+
+
+
+
+
+
+
+
+
+
