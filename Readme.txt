@@ -49,5 +49,5 @@ stats_corr_generateCorrelation.ipynb
 stats_corr_corrMatrix.ipynb
 stats_corr_partialCorrs.ipynb
 stats_corr_Spearman.ipynb
-
+stats_corr_Kendall.ipynb
 
