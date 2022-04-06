@@ -53,7 +53,7 @@ stats_corr_Kendall.ipynb
 stats_corr_cosine.ipynb
 stats_anova_1wayANOVA.ipynb
 stats_anova_1way_rm_ANOVA.ipynb
-
+stats_anova_2way_mixed_ANOVA.ipynb
 
 
 
