@@ -58,7 +58,7 @@ stats_regression_simpleRegression.ipynb
 stats_regression_multipleRegression.ipynb
 stats_regression_polynomialRegression.ipynb
 stats_regression_logisticRegression.ipynb
-
+stats_clusterdimred_kmeans.ipynb
 
 
 
