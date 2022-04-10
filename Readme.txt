@@ -61,5 +61,5 @@ stats_regression_logisticRegression.ipynb
 stats_clusterdimred_kmeans.ipynb
 stats_clusterdimred_dbscan.ipynb
 stats_clusterdimred_KNN.ipynb
-
+stats_clusterdimred_PCA.ipynb
 
