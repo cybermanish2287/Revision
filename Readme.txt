@@ -68,7 +68,7 @@ DUDL_math_ttest.ipynb
 DUDL_GradientDescent_1D.ipynb
 DUDL_GradientDescent_CodeChallengeStartValue.ipynb
 DUDL_GradientDescent_2D.ipynb
-
+DUDL_GradientDescent_experiment.ipynb
 
 
 
