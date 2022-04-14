@@ -66,7 +66,7 @@ stats_dataJourney.ipynb
 stats_sigdet_dPrime.ipynb
 DUDL_math_ttest.ipynb
 DUDL_GradientDescent_1D.ipynb
-
+DUDL_GradientDescent_CodeChallengeStartValue.ipynb
 
 
 
