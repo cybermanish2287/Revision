@@ -65,7 +65,7 @@ stats_clusterdimred_PCA.ipynb
 stats_dataJourney.ipynb
 stats_sigdet_dPrime.ipynb
 DUDL_math_ttest.ipynb
-
+DUDL_GradientDescent_1D.ipynb
 
 
 
