@@ -78,4 +78,15 @@ DUDL_ANN_codeChallenge_regression.ipynb
 DUDL_ANN_learningrates.ipynb
 DUDL_ANN_multilayer.ipynb
 DUDL_ANN_multioutput.ipynb
+DUDL_ANN_codeChallengeQwerties.ipynb
+
+
+
+
+
+
+
+
+
+
 
