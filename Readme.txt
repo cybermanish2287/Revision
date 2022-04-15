@@ -74,4 +74,4 @@ DUDL_GradientDescent_2D.ipynb
 DUDL_GradientDescent_experiment.ipynb
 DUDL_GradientDescent_codeChallenge_lr.ipynb
 DUDL_ANN_regression.ipynb
-
+DUDL_ANN_codeChallenge_regression.ipynb
