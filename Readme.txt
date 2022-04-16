@@ -91,7 +91,7 @@ DUDL_overfitting_trainDevsetTest.ipynb
 DUDL_overfitting_regression.ipynb
 DUDL_regular_dropoutInPytorch.ipynb
 DUDL_regular_dropout.ipynb
-
+DUDL_regular_dropout_example2.ipynb
 
 
 
