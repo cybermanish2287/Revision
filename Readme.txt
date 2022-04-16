@@ -84,7 +84,7 @@ DUDL_ANN_numParameters.ipynb
 DUDL_ANN_seqVsClass.ipynb
 DUDL_ANN_breadthVsDepth.ipynb
 DUDL_ANN_codeChallengeSeq2class.ipynb
-
+DUDL_overfitting_manual.ipynb
 
 
 
