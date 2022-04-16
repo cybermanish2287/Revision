@@ -97,7 +97,7 @@ DUDL_regular_L1regu.ipynb
 DUDL_regular_minibatch.ipynb
 DUDL_regular_testBatchT2.ipynb
 DUDL_regular_codeChallenge_minibatch.ipynb
-
+DUDL_metaparams_intro2winedata.ipynb
 
 
 
