@@ -100,6 +100,7 @@ DUDL_regular_codeChallenge_minibatch.ipynb
 DUDL_metaparams_intro2winedata.ipynb
 DUDL_metaparams_CodeChallengeBatches.ipynb
 DUDL_metaparams_batchNorm.ipynb
+DUDL_metaparams_ActivationFuns.ipynb
 
 
 
