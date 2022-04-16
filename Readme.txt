@@ -82,7 +82,7 @@ DUDL_ANN_codeChallengeQwerties.ipynb
 DUDL_ANN_nHiddenUnits.ipynb
 DUDL_ANN_numParameters.ipynb
 DUDL_ANN_seqVsClass.ipynb
-
+DUDL_ANN_breadthVsDepth.ipynb
 
 
 
