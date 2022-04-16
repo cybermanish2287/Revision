@@ -93,7 +93,7 @@ DUDL_regular_dropoutInPytorch.ipynb
 DUDL_regular_dropout.ipynb
 DUDL_regular_dropout_example2.ipynb
 DUDL_regular_L2regu.ipynb
-
+DUDL_regular_L1regu.ipynb
 
 
 
