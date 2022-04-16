@@ -96,7 +96,7 @@ DUDL_regular_L2regu.ipynb
 DUDL_regular_L1regu.ipynb
 DUDL_regular_minibatch.ipynb
 DUDL_regular_testBatchT2.ipynb
-
+DUDL_regular_codeChallenge_minibatch.ipynb
 
 
 
