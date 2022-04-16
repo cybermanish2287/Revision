@@ -102,7 +102,7 @@ DUDL_metaparams_CodeChallengeBatches.ipynb
 DUDL_metaparams_batchNorm.ipynb
 DUDL_metaparams_ActivationFuns.ipynb
 DUDL_metaparams_ActivationComparisons.ipynb
-
+DUDL_metaparams_CodeChallengeRelus.ipynb
 
 
 
