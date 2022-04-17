@@ -108,7 +108,7 @@ DUDL_metaparams_loss.ipynb
 DUDL_metaparams_multioutput.ipynb
 DUDL_metaparams_momentum.ipynb
 DUDL_metaparams_optimizersComparison.ipynb
-
+DUDL_metaparams_CodeChallengeOptimizers.ipynb
 
 
 
