@@ -110,7 +110,7 @@ DUDL_metaparams_momentum.ipynb
 DUDL_metaparams_optimizersComparison.ipynb
 DUDL_metaparams_CodeChallengeOptimizers.ipynb
 DUDL_metaparams_CodeChallengeAdamL2.ipynb
-
+DUDL_metaparams_learningRateDecay.ipynb
 
 
 
