@@ -112,7 +112,7 @@ DUDL_metaparams_CodeChallengeOptimizers.ipynb
 DUDL_metaparams_CodeChallengeAdamL2.ipynb
 DUDL_metaparams_learningRateDecay.ipynb
 DUDL_FFN_aboutMNIST.ipynb
-
+DUDL_FFN_FFNonMNIST.ipynb
 
 
 
