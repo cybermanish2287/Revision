@@ -116,7 +116,7 @@ DUDL_FFN_FFNonMNIST.ipynb
 DUDL_FFN_CodeChallenge_binMNIST.ipynb
 DUDL_FFN_CodeChallenge_normalization.ipynb
 DUDL_FFN_weightHistograms.ipynb
-
+DUDL_FFN_CodeChallengeBreadthDepth.ipynb
 
 
 
