@@ -119,7 +119,7 @@ DUDL_FFN_weightHistograms.ipynb
 DUDL_FFN_CodeChallengeBreadthDepth.ipynb
 DUDL_FFN_CodeChallenge_optimizers.ipynb
 DUDL_FFN_scrambledMNIST.ipynb
-
+DUDL_FFN_shiftedMNIST.ipynb
 
 
 
