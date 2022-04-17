@@ -127,7 +127,7 @@ DUDL_data_CodeChallengeUnbalanced.ipynb
 DUDL_data_oversampling.ipynb
 DUDL_data_noiseAugmentation.ipynb
 DUDL_data_featureAugmentation.ipynb
-
+DUDL_data_data2colab.ipynb
 
 
 
