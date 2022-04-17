@@ -106,7 +106,7 @@ DUDL_metaparams_CodeChallengeRelus.ipynb
 DUDL_metaparams_CodeChallenge_sugar.ipynb
 DUDL_metaparams_loss.ipynb
 DUDL_metaparams_multioutput.ipynb
-
+DUDL_metaparams_momentum.ipynb
 
 
 
