@@ -104,7 +104,7 @@ DUDL_metaparams_ActivationFuns.ipynb
 DUDL_metaparams_ActivationComparisons.ipynb
 DUDL_metaparams_CodeChallengeRelus.ipynb
 DUDL_metaparams_CodeChallenge_sugar.ipynb
-
+DUDL_metaparams_loss.ipynb
 
 
 
