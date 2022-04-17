@@ -125,7 +125,7 @@ DUDL_data_datasetLoader.ipynb
 DUDL_data_dataVsDepth.ipynb
 DUDL_data_CodeChallengeUnbalanced.ipynb
 DUDL_data_oversampling.ipynb
-
+DUDL_data_noiseAugmentation.ipynb
 
 
 
