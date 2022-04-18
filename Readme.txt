@@ -146,7 +146,7 @@ DUDL_weights_weightchanges.ipynb
 DUDL_autoenc_denoisingMNIST.ipynb
 DUDL_autoenc_codeChallenge_Nunits.ipynb
 DUDL_autoenc_occlusion.ipynb
-
+DUDL_autoenc_MNISTlatentCode.ipynb
 
 
 
