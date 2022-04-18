@@ -142,7 +142,7 @@ DUDL_weights_XavierKaiming.ipynb
 DUDL_weights_CodeChallenge_XavierKaiming.ipynb
 DUDL_weights_codeChallenge_identicalRandom.ipynb
 DUDL_weights_freezeWeights.ipynb
-
+DUDL_weights_weightchanges.ipynb
 
 
 
