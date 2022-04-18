@@ -140,7 +140,7 @@ DUDL_weights_demoinits.ipynb
 DUDL_weights_codeChallenge_weightstd.ipynb
 DUDL_weights_XavierKaiming.ipynb
 DUDL_weights_CodeChallenge_XavierKaiming.ipynb
-
+DUDL_weights_codeChallenge_identicalRandom.ipynb
 
 
 
