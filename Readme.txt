@@ -149,7 +149,7 @@ DUDL_autoenc_occlusion.ipynb
 DUDL_autoenc_MNISTlatentCode.ipynb
 DUDL_autoenc_tiedWeights.ipynb
 DUDL_GPU_implement.ipynb
-
+DUDL_GPU_CodeChallenge2GPU.ipynb
 
 
 
