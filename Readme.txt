@@ -138,7 +138,7 @@ DUDL_FFNmilestone_project2.ipynb
 DUDL_FFNmilestone_project3.ipynb
 DUDL_weights_demoinits.ipynb
 DUDL_weights_codeChallenge_weightstd.ipynb
-
+DUDL_weights_CodeChallenge_XavierKaiming.ipynb
 
 
 
