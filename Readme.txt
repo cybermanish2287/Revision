@@ -151,7 +151,7 @@ DUDL_autoenc_tiedWeights.ipynb
 DUDL_GPU_implement.ipynb
 DUDL_GPU_CodeChallenge2GPU.ipynb
 DUDL_convolution_convInCode.ipynb
-
+DUDL_convolution_conv2.ipynb
 
 
 
