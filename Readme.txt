@@ -155,7 +155,7 @@ DUDL_convolution_conv2.ipynb
 DUDL_convolution_codeChallenge.ipynb
 DUDL_convolution_conv2transpose.ipynb
 DUDL_convolution_meanMaxPool.ipynb
-
+DUDL_convolution_transforms.ipynb
 
 
 
