@@ -152,7 +152,7 @@ DUDL_GPU_implement.ipynb
 DUDL_GPU_CodeChallenge2GPU.ipynb
 DUDL_convolution_convInCode.ipynb
 DUDL_convolution_conv2.ipynb
-
+DUDL_convolution_codeChallenge.ipynb
 
 
 
