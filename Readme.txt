@@ -159,7 +159,7 @@ DUDL_convolution_transforms.ipynb
 DUDL_convolution_customDataSet.ipynb
 DUDL_CNN_CNN4MNIST.ipynb
 DUDL_CNN_shiftedMNIST.ipynb
-
+DUDL_CNN_GaussClass.ipynb
 
 
 
