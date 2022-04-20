@@ -162,7 +162,7 @@ DUDL_CNN_shiftedMNIST.ipynb
 DUDL_CNN_GaussClass.ipynb
 DUDL_CNN_GaussClassFeatureMaps.ipynb
 DUDL_CNN_codeChallengeSoftcoding.ipynb
-
+DUDL_CNN_CodeChallengeLinearUnits.ipynb
 
 
 
