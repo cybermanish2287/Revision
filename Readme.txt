@@ -164,7 +164,7 @@ DUDL_CNN_GaussClassFeatureMaps.ipynb
 DUDL_CNN_codeChallengeSoftcoding.ipynb
 DUDL_CNN_CodeChallengeLinearUnits.ipynb
 DUDL_CNN_GaussAE.ipynb
-
+DUDL_CNN_CodeChallengeAEocclusion.ipynb
 
 
 
