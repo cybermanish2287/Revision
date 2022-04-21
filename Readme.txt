@@ -182,7 +182,7 @@ DUDL_transfer_pretrainFMNIST.ipynb
 DUDL_transfer_PretrainCIFAR.ipynb
 DUDL_style_screamingBathtub.ipynb
 DUDL_style_codeChallengeAlexNet.ipynb
-
+DUDL_GAN_MNIST.ipynb
 
 
 
