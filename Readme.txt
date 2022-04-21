@@ -169,7 +169,7 @@ DUDL_CNN_codeChallengeCustomLoss.ipynb
 DUDL_CNN_findGauss.ipynb
 DUDL_CNN_EMNIST.ipynb
 DUDL_CNN_codeChallengeBeatThis.ipynb
-
+DUDL_CNN_codeChallengeNumChans.ipynb
 
 
 
