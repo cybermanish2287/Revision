@@ -170,7 +170,10 @@ DUDL_CNN_findGauss.ipynb
 DUDL_CNN_EMNIST.ipynb
 DUDL_CNN_codeChallengeBeatThis.ipynb
 DUDL_CNN_codeChallengeNumChans.ipynb
-
+DUDL_CNNmilestone_project1.ipynb
+DUDL_CNNmilestone_project2.ipynb
+DUDL_CNNmilestone_project3.ipynb
+DUDL_CNNmilestone_project4.ipynb
 
 
 
