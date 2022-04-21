@@ -179,7 +179,7 @@ DUDL_transfer_codeChallenge_letters2numbers.ipynb
 DUDL_transfer_resnet.ipynb
 DUDL_transfer_codeChallengeVGG16.ipynb
 DUDL_transfer_pretrainFMNIST.ipynb
-
+DUDL_transfer_PretrainCIFAR.ipynb
 
 
 
