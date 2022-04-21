@@ -167,7 +167,7 @@ DUDL_CNN_GaussAE.ipynb
 DUDL_CNN_CodeChallengeAEocclusion.ipynb
 DUDL_CNN_codeChallengeCustomLoss.ipynb
 DUDL_CNN_findGauss.ipynb
-
+DUDL_CNN_EMNIST.ipynb
 
 
 
