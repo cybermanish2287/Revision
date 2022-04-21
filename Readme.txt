@@ -174,6 +174,23 @@ DUDL_CNNmilestone_project1.ipynb
 DUDL_CNNmilestone_project2.ipynb
 DUDL_CNNmilestone_project3.ipynb
 DUDL_CNNmilestone_project4.ipynb
+DUDL_transfer_MNISTtoFMNIST.ipynb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
