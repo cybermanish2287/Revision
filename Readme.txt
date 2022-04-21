@@ -189,10 +189,11 @@ DUDL_GAN_codeChallengeGaus.ipynb
 DUDL_GAN_CNNganFMNIST.ipynb
 DUDL_GAN_codeChallengeCIFAR.ipynb
 DUDL_GAN_codeChallengeFaces.ipynb
-
-
-
-
+DUDL_RNN_intro2RNN.ipynb
+DUDL_RNN_altSequences.ipynb
+DUDL_RNN_codeChallenge_SineExtrapolate.ipynb
+DUDL_RNN_LSTMGRU.ipynb
+DUDL_RNN_loremipsum.ipynb
 
 
 
