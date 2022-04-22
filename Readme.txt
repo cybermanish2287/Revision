@@ -196,6 +196,9 @@ DUDL_RNN_LSTMGRU.ipynb
 DUDL_RNN_loremipsum.ipynb
 
 
+TF Starts below:
+
+
 
 
 
