@@ -199,7 +199,7 @@ DUDL_RNN_loremipsum.ipynb
 TF Starts below:
 01_neural_network_regression_in_tensorflow.ipynb (Read Only)
 02_neural_network_classification_in_tensorflow.ipynb (Read Only)
-
+03_convolutional_neural_networks_in_tensorflow.ipynb (along with image_data_modification.ipynb , helper_functions.py)
 
 
 
