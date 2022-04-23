@@ -198,7 +198,7 @@ DUDL_RNN_loremipsum.ipynb
 
 TF Starts below:
 01_neural_network_regression_in_tensorflow.ipynb
-
+02_neural_network_classification_in_tensorflow.ipynb
 
 
 
