@@ -204,6 +204,9 @@ TF Starts below:
 04_transfer_learning_in_tensorflow_part_1_feature_extraction.ipynb
 05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb
 06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb
+07_food_vision_milestone_project_1.ipynb (Read Only)
+08_introduction_to_nlp_in_tensorflow.ipynb
+09_SkimLit_nlp_milestone_project_2.ipynb
 
 
 
