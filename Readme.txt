@@ -195,6 +195,11 @@ DUDL_RNN_codeChallenge_SineExtrapolate.ipynb
 DUDL_RNN_LSTMGRU.ipynb
 DUDL_RNN_loremipsum.ipynb
 
+DL 2.25 Below:
+
+
+
+
 
 TF Starts below:
 
