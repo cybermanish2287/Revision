@@ -1,22 +1,40 @@
 Done:
+
+AL4:
+
 TowersHanoi
 NQueens
 HamiltonianPath
 ColoringProblem
 FibonacciDP
 Knapsack.py
+
+AL5:
+
 TrappedRainWaterProblem
 LinkedList
 
 Backlog:
+
+AL1:
+
 file_search
 countingderangements
 aircraftspacing
 maxsubarray
+
+AL2:
+
 Optimization_Algorithms_in_Python_Flight_schedule_problem
 Optimization_Algorithms_in_Python_Bedrooms_problem
 Optimization_Algorithms_in_Python_Transport_problem
+
+AL3:
+
 astar.py
+
+P1:
+
 MasPy_TextReplace_solution.ipynb
 MasPy_LawLargeNumbers_solution.ipynb
 MasPy_EntropyEnglish_solution.ipynb
@@ -24,6 +42,9 @@ MasPy_stateSpaceTrajectory_solution.ipynb
 MasPy_statistics_solution.ipynb
 MasPy_clustering_solution.ipynb
 MasPy_indexYourCode_solution.ipynb
+
+S1:
+
 stats_visualizing_barplots.ipynb
 stats_visualizing_boxWhisker.ipynb
 stats_visualizing_histogram.ipynb
@@ -64,6 +85,8 @@ stats_clusterdimred_KNN.ipynb
 stats_clusterdimred_PCA.ipynb
 stats_dataJourney.ipynb
 stats_sigdet_dPrime.ipynb
+
+DL2.2:
 
 Run DUDL scripts on Colab
 
@@ -204,8 +227,16 @@ https://www.youtube.com/watch?v=P-5sMcpTE0g
 https://www.youtube.com/watch?v=Wr1JjhTt1Xg
 https://www.youtube.com/watch?v=dGtDTjYs3xc&list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD&index=1
 
+DL2.27:
+https://www.youtube.com/watch?v=q8NOmLD5pTU
 
+DL2.28:
+https://www.youtube.com/watch?v=qWXXHjV3JHI&list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
 
+DL2.29:
+https://vymo.udemy.com/course/deploy-machine-learning-model/learn/lecture/17928832#overview
+
+DL2.5:
 
 01_neural_network_regression_in_tensorflow.ipynb (Read Only)
 02_neural_network_classification_in_tensorflow.ipynb (Read Only)
