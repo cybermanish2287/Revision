@@ -195,13 +195,17 @@ DUDL_RNN_codeChallenge_SineExtrapolate.ipynb
 DUDL_RNN_LSTMGRU.ipynb
 DUDL_RNN_loremipsum.ipynb
 
+TF Starts below:
+
 DL 2.25 Below:
 
+DL2.26:
+https://www.youtube.com/watch?v=P-5sMcpTE0g
+https://www.youtube.com/watch?v=Wr1JjhTt1Xg
+https://www.youtube.com/watch?v=dGtDTjYs3xc&list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD&index=1
 
 
 
-
-TF Starts below:
 
 01_neural_network_regression_in_tensorflow.ipynb (Read Only)
 02_neural_network_classification_in_tensorflow.ipynb (Read Only)
