@@ -222,6 +222,8 @@ TF Starts below:
 
 DL 2.25 Below:
 
+C1.ipynb
+
 DL2.26:
 https://www.youtube.com/watch?v=P-5sMcpTE0g
 https://www.youtube.com/watch?v=Wr1JjhTt1Xg
