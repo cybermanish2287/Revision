@@ -226,6 +226,7 @@ C1.ipynb
 C2.ipynb
 C3.ipynb
 C4.ipynb
+C5.ipynb
 
 DL2.26:
 https://www.youtube.com/watch?v=P-5sMcpTE0g
