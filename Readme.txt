@@ -228,6 +228,19 @@ C3.ipynb
 C4.ipynb
 C5.ipynb
 
+DL2.5:
+
+01_neural_network_regression_in_tensorflow.ipynb (Read Only)
+02_neural_network_classification_in_tensorflow.ipynb (Read Only)
+03_convolutional_neural_networks_in_tensorflow.ipynb (along with image_data_modification.ipynb , helper_functions.py) (Read Only)
+04_transfer_learning_in_tensorflow_part_1_feature_extraction.ipynb
+05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb
+06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb
+07_food_vision_milestone_project_1.ipynb (Read Only)
+08_introduction_to_nlp_in_tensorflow.ipynb (Ignore for now)
+09_SkimLit_nlp_milestone_project_2.ipynb (Ignore for now)
+
+
 DL2.26:
 https://www.youtube.com/watch?v=P-5sMcpTE0g
 https://www.youtube.com/watch?v=Wr1JjhTt1Xg
@@ -242,17 +255,6 @@ https://www.youtube.com/watch?v=qWXXHjV3JHI&list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14Q
 DL2.29:
 https://vymo.udemy.com/course/deploy-machine-learning-model/learn/lecture/17928832#overview
 
-DL2.5:
-
-01_neural_network_regression_in_tensorflow.ipynb (Read Only)
-02_neural_network_classification_in_tensorflow.ipynb (Read Only)
-03_convolutional_neural_networks_in_tensorflow.ipynb (along with image_data_modification.ipynb , helper_functions.py) (Read Only)
-04_transfer_learning_in_tensorflow_part_1_feature_extraction.ipynb
-05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb
-06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb
-07_food_vision_milestone_project_1.ipynb (Read Only)
-08_introduction_to_nlp_in_tensorflow.ipynb (Ignore for now)
-09_SkimLit_nlp_milestone_project_2.ipynb (Ignore for now)
 
 
 
