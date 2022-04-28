@@ -240,6 +240,8 @@ DL2.5:
 08_introduction_to_nlp_in_tensorflow.ipynb (Ignore for now)
 09_SkimLit_nlp_milestone_project_2.ipynb (Ignore for now)
 
+DL2.29:
+https://vymo.udemy.com/course/deploy-machine-learning-model/learn/lecture/17928832#overview
 
 DL2.26:
 https://www.youtube.com/watch?v=P-5sMcpTE0g
@@ -251,14 +253,3 @@ https://www.youtube.com/watch?v=q8NOmLD5pTU
 
 DL2.28:
 https://www.youtube.com/watch?v=qWXXHjV3JHI&list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
-
-DL2.29:
-https://vymo.udemy.com/course/deploy-machine-learning-model/learn/lecture/17928832#overview
-
-
-
-
-
-
-
-
