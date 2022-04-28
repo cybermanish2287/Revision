@@ -225,6 +225,7 @@ DL 2.25 Below:
 C1.ipynb
 C2.ipynb
 C3.ipynb
+C4.ipynb
 
 DL2.26:
 https://www.youtube.com/watch?v=P-5sMcpTE0g
