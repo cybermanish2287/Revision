@@ -245,12 +245,5 @@ DL2.29:
 https://vymo.udemy.com/course/deploy-machine-learning-model/learn/lecture/17928832#overview
 
 DL2.26:
-https://www.youtube.com/watch?v=P-5sMcpTE0g
-https://www.youtube.com/watch?v=Wr1JjhTt1Xg
-https://www.youtube.com/watch?v=dGtDTjYs3xc&list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD&index=1
+https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M&index=1
 
-DL2.27:
-https://www.youtube.com/watch?v=q8NOmLD5pTU
-
-DL2.28:
-https://www.youtube.com/watch?v=qWXXHjV3JHI&list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
