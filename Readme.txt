@@ -227,6 +227,7 @@ C2.ipynb
 C3.ipynb
 C4.ipynb
 C5.ipynb
+C6.ipynb
 
 DL2.5:
 
