@@ -246,4 +246,5 @@ https://vymo.udemy.com/course/deploy-machine-learning-model/learn/lecture/179288
 
 DL2.26:
 https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M&index=1
+https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
 
