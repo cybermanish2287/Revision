@@ -251,7 +251,7 @@ https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
 https://github.com/codebasics/potato-disease-classification
 https://www.youtube.com/watch?v=P-5sMcpTE0g
 
-DE1.1:
+DE1.1: [Replace html with .ipynb later]
 
 Working_with_RDD_solution.html
 Working_with_DF_solution.html
