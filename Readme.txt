@@ -245,12 +245,14 @@ DL2.29:
 https://vymo.udemy.com/course/deploy-machine-learning-model/learn/lecture/17928832#overview
 
 DL2.26:
+
 https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M&index=1 (Ignore Project 2, only 1 and 3 below)
 https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
 https://github.com/codebasics/potato-disease-classification
 https://www.youtube.com/watch?v=P-5sMcpTE0g
 
 DE1.1:
+
 Working_with_RDD_solution.html
 Working_with_DF_solution.html
 arxiv_metadata_Analysis_(JSON_RDD)_solution.html
