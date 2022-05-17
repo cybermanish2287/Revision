@@ -264,3 +264,6 @@ HandlingDataSkew_RDD_PySpark_solution.ipynb
 
 DE1.2:
 
+Python vs PySpark [PySpark].ipynb
+Read_Write_and_Validate_Data.ipynb
+
