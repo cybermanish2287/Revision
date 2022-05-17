@@ -251,7 +251,7 @@ https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
 https://github.com/codebasics/potato-disease-classification
 https://www.youtube.com/watch?v=P-5sMcpTE0g
 
-DE1.1: [Replace html with .ipynb later]
+DE1.1:
 
 DE1_1_1.ipynb
 Working_with_DF.ipynb
@@ -262,13 +262,5 @@ KDDCup_Analytics_(DF)_solution.ipynb
 GHTorrent_Analytics_(RDD)_solution.ipynb
 HandlingDataSkew_RDD_PySpark_solution.ipynb
 
-
-Working_with_RDD_solution.html
-Working_with_DF_solution.html
-arxiv_metadata_Analysis_(JSON_RDD)_solution.html
-KDDCup_Analytics_(RDD)_solution.html
-KDDCup_Analytics_(DF)_solution.html
-GHTorrent_Analytics_(RDD)_solution.html
-HandlingDataSkew_RDD_PySpark_solution.html
-HandlingDataSkew_DF_PySpark+(solution).html
+DE1.2:
 
