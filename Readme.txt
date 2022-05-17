@@ -254,6 +254,7 @@ https://www.youtube.com/watch?v=P-5sMcpTE0g
 DE1.1: [Replace html with .ipynb later]
 
 DE1_1_1.ipynb
+Working_with_DF.ipynb
 
 Working_with_RDD_solution.html
 Working_with_DF_solution.html
