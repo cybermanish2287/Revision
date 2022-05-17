@@ -258,6 +258,8 @@ Working_with_DF.ipynb
 arxiv_metadata_Analysis_(JSON_RDD)_solution.ipynb
 arxiv_metadata_Analysis_(JSON_DF)_solution.ipynb
 KDDCup_Analytics_(RDD)_solution.ipynb
+KDDCup_Analytics_(DF)_solution.ipynb
+
 
 Working_with_RDD_solution.html
 Working_with_DF_solution.html
