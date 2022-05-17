@@ -268,3 +268,4 @@ Python vs PySpark [PySpark].ipynb
 Read_Write_and_Validate_Data.ipynb
 Search and Filter DataFrames in PySpark.ipynb
 SQL_Options_in_Spark.ipynb
+Manipulating_Data_in_DataFrames.ipynb
