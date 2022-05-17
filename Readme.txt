@@ -259,6 +259,7 @@ arxiv_metadata_Analysis_(JSON_RDD)_solution.ipynb
 arxiv_metadata_Analysis_(JSON_DF)_solution.ipynb
 KDDCup_Analytics_(RDD)_solution.ipynb
 KDDCup_Analytics_(DF)_solution.ipynb
+GHTorrent_Analytics_(RDD)_solution.ipynb
 
 
 Working_with_RDD_solution.html
