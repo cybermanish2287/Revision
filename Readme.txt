@@ -255,6 +255,7 @@ DE1.1: [Replace html with .ipynb later]
 
 DE1_1_1.ipynb
 Working_with_DF.ipynb
+arxiv_metadata_Analysis_(JSON_RDD)_solution.ipynb
 
 Working_with_RDD_solution.html
 Working_with_DF_solution.html
