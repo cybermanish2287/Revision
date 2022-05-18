@@ -270,3 +270,4 @@ Search and Filter DataFrames in PySpark.ipynb
 SQL_Options_in_Spark.ipynb
 Manipulating_Data_in_DataFrames.ipynb
 Aggregating_DataFrames_in_PySpark.ipynb
+Joining_and_Appending_DataFrames_in_PySpark.ipynb
