@@ -278,3 +278,8 @@ client.py
 Tweet_Listener_simpler.py
 Twitter_structured_stream.ipynb
 
+SQL1:
+MADS_1
+
+SQL2:
+MADS_1
