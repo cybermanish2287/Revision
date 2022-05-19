@@ -248,8 +248,9 @@ DL2.26:
 
 https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M&index=1 (Ignore Project 2, only 1 and 3 below)
 https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
-https://github.com/codebasics/potato-disease-classification
+https://github.com/codebasics/potato-disease-classification (Data for Model is in the local folder)
 https://www.youtube.com/watch?v=P-5sMcpTE0g
+
 
 DE1.1:
 
