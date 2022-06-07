@@ -293,3 +293,4 @@ Sheet1E2Solution.py
 Sheet2E1Solution.py
 Sheet2E2Solution.py
 Sheet3ReadingDatetimeDataSolution.py
+Sheet3E1Solution.py
