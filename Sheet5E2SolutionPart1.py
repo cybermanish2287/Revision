@@ -64,8 +64,8 @@ countryCoords = {"Canada":{"x":150,
     }
                 
 #1) Load and save the data points into a relevant format
-carrotData = readCSV("carrotPrices.csv")
-onionData = readCSV("onionPrices.csv")
+carrotData = readCSV("carrotPrices_1.csv")
+onionData = readCSV("onionPrices_1.csv")
 
 minPrice = min(carrotData["price"])
 maxPrice = max(carrotData["price"])
